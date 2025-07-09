@@ -13,6 +13,6 @@ class User extends Model {
         sequelize,
       },
     );
-  }
+  };
 }
 export default User;
